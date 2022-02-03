@@ -1,2 +1,2 @@
 # Files-Swift
-Independent learning of the programming language swift
+This repository contains programs written in Swift to demonstrate the acquired skills when learning a programming language independently.
